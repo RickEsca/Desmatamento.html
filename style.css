@@ -1,0 +1,26 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 55px;
+}
+p {
+  font-family: verdana;
+  font-size: 18px;
+}
+
+p { text-align: center }
+
+
+ body {
+  background-color: lightblue;
+}
+
+
+form
+{
+  text-align: center
+}
+h2
+{ color:black;
+  text-align: center;
+  font-size: 45px;}
